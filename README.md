@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BradleyRayTroxel
-- 👀 I’m interested in Machine Learning, Artificial Inteligence, Videogames, Tabletop RPGs, Improving as a System Administrator
-- 🌱 I’m currently learning Microsoft Fundamental certifications, AZ-104,Javascript, C#, Python, AI-102
-- 💞️ I’m looking to collaborate on improving my coding and learning about development
+- 👀 I’m interested in Microsoft Azure, Machine Learning, Artificial Inteligence, Videogames, Tabletop RPGs, Improving as a DevOps Engineer and System Administrator.
+- 🌱 I’m currently studying to take Microsoft exams AZ-104 and AZ-400 to earn DevOps Engineer Expert.
+- 💞️ I’m looking to collaborate on improving my coding and learning about development.
 - 📫 How to reach me linkedin at https://www.linkedin.com/in/bradley-ray-troxel/
 
 <!---
